@@ -14,15 +14,11 @@ I have a deep passion for game modding, particularly in Minecraft. This interest
 
 ### Skills
 
-<p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=java,py,git,cs,HTML,CSS,gradle,idea,unity,linux,maven)](https://skillicons.dev)
-  
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=java,py,git,cs,html,css,gradle,idea,unity,linux,maven)](https://skillicons.dev)
 ### Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/codecraft07)
-[![Github](https://skillicons.dev/icons?i=discord)](https://www.github.com/CodeCraftPlugin)
-[![Instagram](https://skillicons.dev/icons?i=discord)](http://www.instagram.com/vaibhavbehl8948)
+[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/CodeCraftPlugin)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/vaibhavbehl8948)
 <p align="left"> <a href="https://discord.com/users/codecraft07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CodeCraftPlugin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/vaibhavbehl8948" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/codecraftpro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
